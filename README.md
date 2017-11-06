@@ -32,4 +32,4 @@ Submit it in the [issues](https://github.com/ohansemmanuel/swush/issues)
 
 ## License
 
-Licensed under the [MIT License](http://kbrsh.github.io/license) by [Kabir Shah](http://kabir.ml)
+Licensed under the MIT License by [Ohans Emmanuel](https://twitter.com/OhansEmmanuel)
