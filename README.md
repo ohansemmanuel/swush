@@ -8,7 +8,10 @@
 
 ## Why should you use it?
 
-Everything you need to create a basic project is included, all in a **2kb** file (minified + gzipped). On top of that, almost everything is styled automatically, without the need for learning specific classes. This allows for an intuitive experience developing with Wing, as it's designed to be a boilerplate stylesheet for any project.
+Having used Bopotstrap 4 for a lot of quick prototyping, I realized I was quickly rewritting so many (extra) utility classes. 
+Why stress when I abstract all of that into a tiny effective library? 
+
+Everything you need to work smoothly is here in a **1kb** file (minified + gzipped). On top of that, you don't need to learn specific classes. The class names are consistent with the Bootstrap 4 naming conventions. This makes for an intuitive experience developing with Swush and Bootstrap 4.
 
 ## Installation
 
