@@ -1,0 +1,40 @@
+{
+  "name": "wingcss",
+  "filename": "swush.min.css",
+  "version": "1.0.0-beta",
+  "description": "The missing Bootstrap 4 utility library",
+  "main": "./dist/swush.min.css",
+  "scripts": {
+    "test": "echo \"Testing\"",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ohansemmanuel/swush.git"
+  },
+  "author": "Kabir Shah",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ohansemmanuel/swush/issues"
+  },
+  "homepage": "http://usewing.ml",
+  "autoupdate": {
+    "source": "git",
+    "target": "git://github.com/ohansemmanuel/swush.git",
+    "basePath": "dist",
+    "files": [
+      "swush.min.css",
+      "swush.css"
+    ]
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "latest",
+    "gulp-cli": "^1.2.1",
+    "gulp-concat": "latest",
+    "gulp-git": "^1.9.0",
+    "gulp-header": "^1.8.2",
+    "gulp-size": "^2.1.0",
+    "gulp-stylus": "^2.6.0"
+  }
+}
