@@ -1,4 +1,5 @@
-<p align="center"><a href="http://usewing.ml" target="_blank"><img width="125"src="https://github.com/kbrsh/wing/raw/gh-pages/img/logo.png"></a></p>
+<p align="center"><a href="http://usewing.ml" target="_blank"><img width="125"src="http://res.cloudinary.com/blushcow/image/upload/v1509993734/swush_zszuc1.png"></a></p>
+
 
 <h1 align="center">Swush</h1>
 
