@@ -22,6 +22,7 @@ Issues let us know of things we should fix, things we should add, questions, etc
 5) The issue will be fixed asap!
 
 
+
 ### Pull Requests
 
 Pull Requests allow you to share your own code with us, and we can merge it into the main repo.
