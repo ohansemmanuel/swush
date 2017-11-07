@@ -7,6 +7,8 @@
 
 [//]: # (Include Travis CI badges here)
 
+[![Build Status](https://travis-ci.org/ohansemmanuel/swush.svg?branch=master)](https://travis-ci.org/ohansemmanuel/swush)
+
 ## Why should you use it?
 
 Having used Bopotstrap 4 for a lot of quick prototyping, I realized I was quickly rewritting so many (extra) utility classes. 
