@@ -19,7 +19,7 @@ Everything you need to work smoothly is here in a **1kb** file (minified + gzipp
 
 ## Installation
 
-**npm (coming soon)**
+**npm**
 
 ```sh
 $ npm install --save swush
