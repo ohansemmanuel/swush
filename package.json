@@ -1,5 +1,5 @@
 {
-  "name": "wingcss",
+  "name": "swush",
   "filename": "swush.min.css",
   "version": "1.0.0-beta",
   "description": "The missing Bootstrap 4 utility library",
@@ -12,7 +12,7 @@
     "type": "git",
     "url": "git+https://github.com/ohansemmanuel/swush.git"
   },
-  "author": "Kabir Shah",
+  "author": "Ohans Emmanuel",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/ohansemmanuel/swush/issues"
