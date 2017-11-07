@@ -8,6 +8,7 @@
 [//]: # (Include Travis CI badges here)
 
 [![Build Status](https://travis-ci.org/ohansemmanuel/swush.svg?branch=master)](https://travis-ci.org/ohansemmanuel/swush)
+[![Packagist](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/ohansemmanuel/swush/blob/master/LICENSE)
 
 ## Why should you use it?
 
