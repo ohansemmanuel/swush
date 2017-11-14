@@ -19,13 +19,13 @@ Everything you need to work smoothly is here in a **1kb** file (minified + gzipp
 
 ## Installation
 
-**npm (coming soon)**
+**npm**
 
 ```sh
 $ npm install --save swush
 ```
 
-**Link to It (coming soon)**
+**Link to It**
 
 ```html
 <link rel="stylesheet" href="https://unpkg.com/swush"/>

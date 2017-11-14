@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/ohansemmanuel/swush/issues"
   },
-  "homepage": "http://usewing.ml",
+  "homepage": "http://swush.xyz",
   "autoupdate": {
     "source": "git",
     "target": "git://github.com/ohansemmanuel/swush.git",
